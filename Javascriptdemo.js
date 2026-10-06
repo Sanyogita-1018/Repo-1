@@ -1,2 +1,2 @@
 console.log("Hello, World!");
-console.log("This is a JavaScript demo.");
+console.log("This is a JavaScript demo1.");
